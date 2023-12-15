@@ -1,0 +1,36 @@
+
+.navbar .navbar-collapse a{
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.navbar .navbar-collapse .navbar-nav a:hover{
+    background-color: rgb(216, 148, 22);
+}
+
+.navbar-light .navbar-brand{
+    font-size:25px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+.color-chng{
+    color: rgb(216, 148, 22);
+}
+
+.collapse .navbar-nav li{
+    padding-right: 15px;
+}
+
+.btn.read-more{
+    background-color: #000;
+    color: #ffff;
+}
+
+.btn.read-more:hover{
+    color: #000;
+    background-color: rgb(216, 148, 22);
+
+}
